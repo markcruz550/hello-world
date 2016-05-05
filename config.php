@@ -1,0 +1,1 @@
+<?php $config["database"] = "bfi"; $config["host"]= "localhost";$config["username"]= "root"; $config["password"]= "root";?>
